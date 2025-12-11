@@ -1,0 +1,1 @@
+Line 13 designates which digital pins MCU is reading encoder data from

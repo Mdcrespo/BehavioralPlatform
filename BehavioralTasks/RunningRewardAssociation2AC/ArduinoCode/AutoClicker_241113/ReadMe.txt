@@ -1,0 +1,1 @@
+Lines 14-15 designate which digital pins to use and the corresponding part to use with each pin
